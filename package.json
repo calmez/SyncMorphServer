@@ -2,7 +2,7 @@
     "name": "SyncMorphServer",
     "description": "A server that routes and stores messages between SyncMorphs",
     "version": "0.0.1",
-    "author": "Conrad Calmez <conrad@calmez.net>"
+    "author": "Conrad Calmez <conrad@calmez.net>",
     "contributors": [ 
         {
             "name": "Astrid Thomschke",
