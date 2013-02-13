@@ -1,0 +1,7 @@
+SyncMorphServer
+
+This is a server that routes and stores messages between SyncMorphs. The data
+is hold in memory and not persisted at the moment.
+
+To see this server in action visit
+http://lively-kernel.org/repository/webwerkstatt/blank.xhtml

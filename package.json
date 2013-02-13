@@ -18,5 +18,6 @@
     "dependencies": {
         "express": "3.x",
         "socket.io": "0.7.x"
-    }
+    },
+    "license": "MIT"
 }
